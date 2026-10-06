@@ -1,0 +1,583 @@
+SEXO,PROBABILIDAD_DE_REPROBACIÓN,PERCEPCIÓN,TOMA_DE_DECISIONES,AFINIDAD_AL_PERFIL,PERFIL_DE_INGRESO,PROGRAMA,AÑO,EDAD,CALIFICACION
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,17,8.5
+Hombre,Media ,S/A,S/A,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,21,7.0
+Hombre,Alta,Intuitivo,Intuitivo,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,7.2
+Hombre,Alta,Analítico,Emocional ,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,18,8.8
+Hombre,Baja,Intuitivo,Emocional ,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,7.6
+Hombre,Alta,Analítico,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,20,7.8
+Hombre,Alta,S/A,Emocional ,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,26,8.2
+Hombre,Alta,Analítico,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,6.8
+Hombre,Alta,S/A,Emocional ,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,23,8.6
+Hombre,Media ,S/A,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,18,8.9
+Hombre,Baja,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.4
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.2
+Hombre,Media ,Analítico,Emocional ,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2022,18,7.0
+Hombre,Alta ,Intuitivo,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.0
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,20,8.8
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,7.9
+Hombre,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.1
+Hombre,Media ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,21,8.8
+Hombre,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.5
+Hombre,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,9.2
+Hombre,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,9.0
+Hombre,Alta ,S/A,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,8.4
+Hombre,Alta,S/A,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,7.2
+Hombre,Alta,Analítico,Intuitivo,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,19,7.4
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,20,9.4
+Hombre,Alta ,Intuitivo,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,9.2
+Hombre,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,9.0
+Hombre,Media ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,23,8.8
+Hombre,Alta,S/A,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,19,8.0
+Hombre,Alta,S/A,Emocional ,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,22,9.3
+Hombre,Media ,S/A,S/A,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,19,7.7
+Hombre,Alta,Analítico,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,17,7.7
+Hombre,Alta,Analítico,Emocional ,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,18,9.1
+Hombre,Media,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,19,8.3
+Hombre,Media ,S/A,Impulsivo,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.7
+Hombre,Baja,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,9.2
+Hombre,Media ,Analítico,Emocional ,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.0
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.0
+Hombre,Alta ,Intuitivo,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,7.5
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,7.8
+Hombre,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,17,7.2
+Hombre,Media,Analítico,Racional,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.0
+Hombre,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,8.2
+Hombre,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,7.3
+Hombre,Media,Analítico,S/A,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2022,19,9.0
+Hombre,Alta,S/A,Emocional,S/A,Medianamente Adecuado,Agricultura Sustentable y Protegida,2022,20,8.0
+Hombre,Alta,Intuitivo,S/A,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,6.4
+Hombre,Alta,Analítico,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,20,7.4
+Hombre,Baja,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.0
+Hombre,Media ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,7.8
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.6
+Hombre,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,20,7.6
+Hombre,Alta ,Analítico,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,7.5
+Hombre,Alta,S/A,Emocional ,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,18,7.8
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.0
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,8.3
+Hombre,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,8.7
+Mujer,Media ,S/A,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,18,7.8
+Mujer,Media ,S/A,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,8.6
+Mujer,Alta,Analítico,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,8.3
+Mujer,Alta,Intuitivo,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,19,8.7
+Mujer,Alta,Analítico,S/A,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,8.4
+Mujer,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,17,9.1
+Mujer,Alta ,Analítico,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,8.9
+Mujer,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,8.9
+Mujer,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,7.4
+Mujer,Alta ,Analítico,Racional ,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2022,19,7.3
+Mujer,Alta ,S/A,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,9.0
+Mujer,Media ,S/A,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,7.5
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,19,8.6
+Mujer,Alta ,S/A,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,28,9.0
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,20,8.4
+Mujer,Alta,S/A,S/A,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,7.4
+Mujer,Alta,Intuitivo,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,21,8.9
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,18,8.4
+Mujer,Alta,Analítico,Intuitivo,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,19,7.8
+Mujer,Media ,Analítico,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,7.7
+Mujer,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,23,8.6
+Mujer,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,22,8.9
+Mujer,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.0
+Mujer,Alta ,Intuitivo,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,23,9.0
+Mujer,Alta ,Analítico,Racional ,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2022,19,8.5
+Mujer,Alta ,S/A,Impulsivo,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,8.4
+Mujer,Alta ,Intuitivo,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,19,8.8
+Mujer,Media,S/A,Reflexivo,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2022,20,9.4
+Mujer,Baja,Analítico,Reflexivo,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2022,18,9.3
+Mujer,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Agricultura Sustentable y Protegida,2022,19,8.6
+Mujer,Baja,S/A,Reflexivo,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2022,18,8.8
+Mujer,Media,Intuitivo,Reflexivo,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2022,18,9.0
+Mujer,Alta,S/A,Emocional,S/A,Medianamente Adecuado,Agricultura Sustentable y Protegida,2022,19,9.2
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,18,8.8
+Mujer,Alta,Intuitivo,Intuitivo,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,8.2
+Mujer,Alta,Intuitivo,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,20,8.3
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2022,19,7.7
+Mujer,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,7.7
+Mujer,Alta ,Intuitivo,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,9.0
+Mujer,Alta ,Analítico,Racional ,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2022,18,8.4
+Mujer,Alta ,Analítico,Emocional ,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2022,19,8.6
+Mujer,Alta ,S/A,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2022,18,7.9
+Mujer,Alta,S/A,Impulsivo,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,20,7.9
+Mujer,Alta,Analítico,S/A,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2022,18,8.8
+Hombre,Media ,Analítico,Emocional ,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,18,8.3
+Hombre,Alta,S/A,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,21,9.1
+Hombre,Alta,S/A,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,18,8.9
+Hombre,Alta,Analítico,S/A,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,18,9.3
+Hombre,Media ,S/A,S/A,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,18,7.8
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,18,9.3
+Hombre,Media ,S/A,S/A,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,18,8.5
+Hombre,Media ,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,18,9.2
+Hombre,Alta,Analítico,Emocional ,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,18,8.0
+Hombre,Media ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,21,9.5
+Hombre,Alta ,S/A,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,9.0
+Hombre,Media ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,23,8.8
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,20,8.8
+Hombre,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,23,9.0
+Hombre,Alta ,Analítico,S/A,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2023,18,8.6
+Hombre,Media,Analítico,Racional,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,21,9.0
+Hombre,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,18,8.2
+Hombre,Media ,S/A,S/A,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,18,9.2
+Hombre,Alta,Analítico,S/A,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,19,9.0
+Hombre,Alta,Analítico,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,18,8.5
+Hombre,Media,Analítico,S/A,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2023,18,8.2
+Hombre,Baja,S/A,S/A,S/A,No Adecuado,Agricultura Sustentable y Protegida,2023,30,7.6
+Hombre,Media,Analítico,Emocional,Medianamente Afín,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,18,8.8
+Hombre,Alta,S/A,Racional,Afín al perfil,No adecuado,Agricultura Sustentable y Protegida,2023,18,8.4
+Hombre,Alta,S/A,Emocional,Medianamente Afín,No adecuado,Agricultura Sustentable y Protegida,2023,18,7.6
+Hombre,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,17,9.6
+Hombre,Alta,S/A,Emocional,S/A,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,24,7.8
+Hombre,Baja,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,19,9.4
+Hombre,Media,Analítico,S/A,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2023,39,8.8
+Hombre,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,18,9.8
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,18,8.6
+Hombre,Alta,Analítico,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,18,8.2
+Hombre,Baja,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,20,8.2
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,9.2
+Hombre,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,20,8.0
+Hombre,Alta ,Intuitivo,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,8.2
+Hombre,Media ,S/A,S/A,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,20,8.4
+Hombre,Baja,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,8.9
+Hombre,Alta ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,19,9.4
+Hombre,Alta,S/A,Emocional,S/A,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,17,9.3
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,9.4
+Hombre,Alta ,Analítico,Racional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,20,9.3
+Hombre,Media ,S/A,S/A,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,20,8.4
+Hombre,Media ,S/A,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,9.2
+Hombre,Alta ,Analítico,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,8.5
+Hombre,Alta,Analítico,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,18,8.5
+Hombre,Alta,S/A,Emocional,Medianamente Afín,No adecuado,Agricultura Sustentable y Protegida,2023,19,8.4
+Hombre,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,20,8.8
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,19,8.9
+Mujer,Alta,Intuitivo,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,20,8.2
+Mujer,Alta,S/A,Impulsivo,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,29,7.5
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,18,8.3
+Mujer,Media ,Analítico,S/A,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2023,17,6.2
+Mujer,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,8.8
+Mujer,Media ,Intuitivo,Emocional ,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2023,20,7.7
+Mujer,Alta ,Intuitivo,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,8.5
+Mujer,Alta ,S/A,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,7.9
+Mujer,Alta ,Analítico,Emocional ,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2023,19,6.2
+Mujer,Alta ,Intuitivo,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,19,8.8
+Mujer,Alta,Analítico,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,19,8.0
+Mujer,Alta ,S/A,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,8.0
+Mujer,Media ,S/A,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,18,7.9
+Mujer,Media ,S/A,Racional,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,19,6.0
+Mujer,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,19,9.0
+Mujer,Baja,S/A,Reflexivo,Medianamente Afín,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,22,8.2
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2023,18,8.6
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agricultura Sustentable y Protegida,2023,17,8.9
+Mujer,Alta,Intuitivo,Emocional,Afín al perfil,No adecuado,Agricultura Sustentable y Protegida,2023,17,8.0
+Mujer,Alta,S/A,Reflexivo,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2023,20,9.0
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2023,18,9.0
+Mujer,Alta,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,18,6.0
+Mujer,Baja,S/A,Emocional,S/A,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,19,6.0
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2023,18,8.0
+Mujer,Baja,S/A,Reflexivo,Afín al perfil,Medianamente Adecuado,Agricultura Sustentable y Protegida,2023,20,8.4
+Mujer,Alta,Intuitivo,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,17,8.7
+Mujer,Alta ,Analítico,Emocional ,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,8.9
+Mujer,Alta ,S/A,S/A,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2023,18,7.7
+Mujer,Alta,Analítico,Impulsivo,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,19,8.3
+Mujer,Alta ,Intuitivo,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,9.3
+Mujer,Baja,Analítico,Reflexivo,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2023,18,8.0
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado ,Agricultura Sustentable y Protegida,2023,17,9.0
+Mujer,Alta ,Intuitivo,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,19,8.8
+Mujer,Alta,Analítico,S/A,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,18,7.8
+Mujer,Media ,Analítico,S/A,Afín al perfil,No Adecuado,Agricultura Sustentable y Protegida,2023,18,9.2
+Mujer,Alta ,Analítico,Emocional ,Medianamente Afín,No Adecuado,Agricultura Sustentable y Protegida,2023,18,8.3
+Mujer,Media ,S/A,Intuitivo,Medianamente Afín,No adecuado ,Agricultura Sustentable y Protegida,2023,18,6.8
+Mujer,Alta,Intuitivo,Emocional,Afín al perfil,No adecuado,Agricultura Sustentable y Protegida,2023,18,8.8
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Agricultura Sustentable y Protegida,2023,18,8.8
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.2
+Hombre,Alta,Intuitivo,Emocional,Afín al perfil,No adecuado,Agrobiotecnología,2022,25,8.7
+Hombre,Alta,S/A,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,22,7.5
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.8
+Hombre,Alta,S/A,S/A,Medianamente Afín,No adecuado,Agrobiotecnología,2022,19,8.7
+Hombre,Alta,Analítico,S/A,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,9.5
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.2
+Hombre,Alta,S/A,Racional,Medianamente Afín,No adecuado,Agrobiotecnología,2022,22,8.0
+Hombre,Media,S/A,Impulsivo,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,8.0
+Hombre,Alta,S/A,S/A,Medianamente Afín,No adecuado,Agrobiotecnología,2022,21,7.7
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.9
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.6
+Hombre,Media,Analítico,S/A,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.4
+Hombre,Media,Analítico,S/A,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.8
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,20,7.4
+Hombre,Alta,Intuitivo,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.6
+Hombre,Alta,S/A,S/A,Medianamente Afín,No adecuado,Agrobiotecnología,2022,18,8.0
+Hombre,Alta,Analítico,Intuitivo,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.4
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.2
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.6
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.4
+Hombre,Baja,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,7.5
+Hombre,Alta,Analítico,Emocional,Afín al perfil,No adecuado,Agrobiotecnología,2022,24,7.6
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.9
+Hombre,Alta,Intuitivo,Emocional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.7
+Hombre,Media,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,24,8.6
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,8.4
+Hombre,Alta,S/A,S/A,Medianamente Afín,No adecuado,Agrobiotecnología,2022,18,8.4
+Hombre,Alta,Analítico,S/A,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,9.0
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,8.4
+Hombre,Alta,Intuitivo,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,8.6
+Hombre,Alta,Analítico,Emocional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,9.3
+Hombre,Alta,S/A,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,9.3
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,8.3
+Hombre,Media,Analítico,S/A,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,9.0
+Hombre,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,8.0
+Hombre,Alta,Intuitivo,Emocional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.2
+Mujer,Alta,S/A,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,20,9.4
+Mujer,Alta,S/A,Emocional,Medianamente Afín,No adecuado,Agrobiotecnología,2022,20,8.0
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,7.6
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,24,8.4
+Mujer,Alta,Analítico,S/A,Medianamente Afín,No adecuado,Agrobiotecnología,2022,18,8.3
+Mujer,Media,S/A,Intuitivo,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,9.4
+Mujer,Media,Analítico,S/A,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,9.2
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,9.4
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,21,8.2
+Mujer,Media,S/A,S/A,Medianamente Afín,No adecuado,Agrobiotecnología,2022,18,9.0
+Mujer,Alta,Analítico,S/A,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,9.2
+Mujer,Alta,Analítico,Emocional,Afín al perfil,No adecuado,Agrobiotecnología,2022,22,9.0
+Mujer,Alta,Intuitivo,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.0
+Mujer,Alta,S/A,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,9.0
+Mujer,Media,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,17,8.6
+Mujer,Alta,Intuitivo,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.2
+Mujer,Alta,Intuitivo,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,35,8.6
+Mujer,Alta,Intuitivo,Emocional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,9.0
+Mujer,Media,S/A,S/A,Medianamente Afín,No adecuado,Agrobiotecnología,2022,21,8.2
+Mujer,Alta,S/A,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,8.2
+Mujer,Alta,S/A,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,8.4
+Mujer,Alta,S/A,Emocional,Medianamente Afín,No adecuado,Agrobiotecnología,2022,18,7.8
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.5
+Mujer,Media,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,20,8.0
+Mujer,Alta,Intuitivo,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,8.6
+Mujer,Alta,Intuitivo,Emocional,Afín al perfil,No adecuado,Agrobiotecnología,2022,20,8.2
+Mujer,Alta,S/A,Impulsivo,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.6
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,20,9.0
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.2
+Mujer,Media,Analítico,S/A,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.4
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,9.4
+Mujer,Alta,Analítico,S/A,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,9.0
+Mujer,Alta,S/A,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.8
+Mujer,Alta,Intuitivo,Intuitivo,Afín al perfil,No adecuado,Agrobiotecnología,2022,20,7.7
+Mujer,Alta,Intuitivo,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,20,7.8
+Mujer,Alta,Intuitivo,Emocional,Afín al perfil,No adecuado,Agrobiotecnología,2022,20,8.3
+Mujer,Alta,Analítico,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,18,8.2
+Mujer,Alta,Intuitivo,Racional,Afín al perfil,No adecuado,Agrobiotecnología,2022,19,8.7
+Hombre,Baja,S/A,S/A,S/A,Medianamente Adecuado,Agrobiotecnología,2023,18,8.4
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Adecuado,Agrobiotecnología,2023,19,9.3
+Hombre,Media,S/A,S/A,Medianamente Afín,Medianamente Adecuado,Agrobiotecnología,2023,18,8.6
+Hombre,Media,Analítico,S/A,Medianamente Afín,No Adecuado,Agrobiotecnología,2023,19,8.8
+Hombre,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,18,9.0
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Agrobiotecnología,2023,18,9.2
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Agrobiotecnología,2023,22,8.8
+Hombre,Media,Analítico,S/A,Medianamente Afín,No Adecuado,Agrobiotecnología,2023,19,9.2
+Hombre,Baja,S/A,Reflexivo,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,30,8.3
+Hombre,Media,Analítico,S/A,Medianamente Afín,No Adecuado,Agrobiotecnología,2023,20,7.7
+Hombre,Baja,S/A,Reflexivo,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,21,7.7
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,18,9.0
+Hombre,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,18,8.4
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Agrobiotecnología,2023,19,9.6
+Mujer,Alta,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Agrobiotecnología,2023,18,7.8
+Mujer,Alta,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,20,8.4
+Mujer,Alta,S/A,S/A,S/A,Medianamente Adecuado,Agrobiotecnología,2023,18,8.0
+Mujer,Baja,S/A,Reflexivo,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,18,8.2
+Mujer,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Agrobiotecnología,2023,19,7.4
+Mujer,Alta,Intuitivo,Intuitivo,S/A,Medianamente Adecuado,Agrobiotecnología,2023,18,6.6
+Mujer,Alta,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,19,7.6
+Mujer,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,19,6.4
+Mujer,Media,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Agrobiotecnología,2023,19,8.2
+Mujer,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,18,6.6
+Mujer,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,19,7.1
+Mujer,Media,Intuitivo,Emocional,Medianamente Afín,Medianamente Adecuado,Agrobiotecnología,2023,18,9.3
+Mujer,Alta,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Agrobiotecnología,2023,18,9.1
+Mujer,Media,Analítico,S/A,Medianamente Afín,No Adecuado,Agrobiotecnología,2023,19,9.4
+Mujer,Baja,S/A,Reflexivo,Afín al perfil,Medianamente Adecuado,Agrobiotecnología,2023,18,9.3
+Mujer,Baja,Intuitivo,S/A,Medianamente Afín,Medianamente Adecuado,Agrobiotecnología,2023,18,7.8
+Hombre,Baja,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,21,7.5
+Hombre,Alta,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,18,7.3
+Hombre,Alta,Intuitivo,Intuitivo,Medianamente Afín,Adecuado,Paramédico,2022,18,6.2
+Hombre,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,7.8
+Hombre,Alta,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,18,7.7
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,25,8.5
+Hombre,Alta,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,19,7.0
+Hombre,Alta,Intuitivo,S/A,S/A,Medianamente Adecuado,Paramédico,2022,17,6.2
+Hombre,Media,S/A,Emocional,S/A,Medianamente Adecuado,Paramédico,2022,19,7.8
+Hombre,Baja,Analítico,Intuitivo,Medianamente Afín,Adecuado,Paramédico,2022,23,8.0
+Hombre,Baja,S/A,Emocional,S/A,Medianamente Adecuado,Paramédico,2022,18,6.0
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2022,21,8.4
+Hombre,Baja,Intuitivo,Racional,Medianamente Afín,Adecuado,Paramédico,2022,20,6.0
+Hombre,Baja,Analítico,Emocional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,9.0
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,55,9.5
+Hombre,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,18,6.6
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,18,9.4
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,6.0
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2022,20,8.0
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2022,18,8.2
+Hombre,Media,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2022,17,8.0
+Hombre,Baja,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,17,6.0
+Hombre,Media,Intuitivo,S/A,S/A,Medianamente Adecuado,Paramédico,2022,18,8.0
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2022,18,8.4
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,18,8.7
+Hombre,Baja,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,8.9
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,19,9.7
+Hombre,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,32,8.8
+Hombre,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,19,9.3
+Hombre,Alta,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,8.0
+Hombre,Baja,S/A,Emocional,S/A,Adecuado,Paramédico,2022,17,9.0
+Hombre,Alta,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2022,18,8.8
+Hombre,Media,S/A,Impulsivo,S/A,Medianamente Adecuado,Paramédico,2022,18,7.8
+Mujer,Media,S/A,Racional,Medianamente Afín,Adecuado,Paramédico,2022,18,8.7
+Mujer,Alta,S/A,Intuitivo,S/A,Medianamente Adecuado,Paramédico,2022,18,8.5
+Mujer,Media,Analítico,Emocional,Afín al perfil,Medianamente Adecuado,Paramédico,2022,19,7.7
+Mujer,Alta,S/A,Intuitivo,S/A,Medianamente Adecuado,Paramédico,2022,17,7.9
+Mujer,Alta,Analítico,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,17,8.3
+Mujer,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2022,19,8.3
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,17,9.7
+Mujer,Alta,S/A,Emocional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,9.2
+Mujer,Baja,S/A,Racional,Medianamente Afín,Adecuado,Paramédico,2022,19,10.0
+Mujer,Baja,Analítico,Emocional,Medianamente Afín,Adecuado,Paramédico,2022,19,9.6
+Mujer,Baja,Intuitivo,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,20,9.0
+Mujer,Baja,Intuitivo,Racional,Medianamente Afín,Adecuado,Paramédico,2022,18,10.0
+Mujer,Alta,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,9.3
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,18,9.0
+Mujer,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2022,18,10.0
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,17,10.0
+Mujer,Alta,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,17,9.4
+Mujer,Alta,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,9.0
+Mujer,Alta,Analítico,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,9.8
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,22,9.2
+Mujer,Baja,Analítico,Emocional,Medianamente Afín,Adecuado,Paramédico,2022,18,9.0
+Mujer,Media,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,8.9
+Mujer,Media,Intuitivo,Emocional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,9.8
+Mujer,Alta ,S/A,S/A,Afín al perfil,No Adecuado,Paramédico,2022,18,8.0
+Mujer,Baja,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,9.6
+Mujer,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,9.4
+Mujer,Alta,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2022,46,9.6
+Mujer,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,18,7.8
+Mujer,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2022,19,7.8
+Mujer,Baja,Analítico,Intuitivo,Medianamente Afín,Adecuado,Paramédico,2022,19,7.2
+Mujer,Baja,S/A,Emocional,S/A,Medianamente Adecuado,Paramédico,2022,18,7.5
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,18,8.6
+Hombre,Baja,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,7.9
+Hombre,Alta,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,21,7.9
+Hombre,Baja,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,21,8.8
+Hombre,Media,Analítico,S/A,Medianamente Afín,Adecuado,Paramédico,2023,18,9.4
+Hombre,Alta,Intuitivo,Intuitivo,Medianamente Afín,Adecuado,Paramédico,2023,17,8.8
+Hombre,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,19,7.6
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,8.4
+Hombre,Media,S/A,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,19,8.0
+Hombre,Alta,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,18,9.4
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,28,9.2
+Hombre,Baja,Analítico,Emocional,Medianamente Afín,Adecuado,Paramédico,2023,20,9.4
+Hombre,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,8.2
+Hombre,Alta,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,18,9.2
+Hombre,Alta,Intuitivo,S/A,S/A,No Adecuado,Paramédico,2023,19,7.3
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,21,9.0
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,9.4
+Hombre,Media,S/A,Emocional,S/A,Medianamente Adecuado,Paramédico,2023,20,9.0
+Hombre,Baja,Analítico,Intuitivo,Medianamente Afín,Adecuado,Paramédico,2023,20,9.6
+Hombre,Media,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,19,8.2
+Hombre,Media,Intuitivo,S/A,S/A,Medianamente Adecuado,Paramédico,2023,20,7.6
+Hombre,Baja,S/A,Emocional,S/A,Medianamente Adecuado,Paramédico,2023,18,9.0
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,22,8.2
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,18,8.2
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,19,8.4
+Hombre,Baja,Intuitivo,Racional,Medianamente Afín,Adecuado,Paramédico,2023,20,8.8
+Hombre,Baja,Analítico,Emocional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,19,9.6
+Hombre,Baja,S/A,Racional,Medianamente Afín,Adecuado,Paramédico,2023,18,8.0
+Hombre,Alta,S/A,Intuitivo,S/A,Medianamente Adecuado,Paramédico,2023,19,8.6
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,18,8.2
+Hombre,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,19,10.0
+Hombre,Alta,S/A,Emocional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,33,9.0
+Hombre,Media,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,19,8.2
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,20,8.4
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,41,9.4
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,19,9.0
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,17,7.2
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,20,7.7
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,21,8.8
+Hombre,Baja,Intuitivo,Racional,Medianamente Afín,Adecuado,Paramédico,2023,20,6.3
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,18,8.2
+Hombre,Media,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,21,7.8
+Hombre,Baja,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,17,8.7
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,20,9.2
+Hombre,Alta,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,18,7.7
+Hombre,Media,Intuitivo,S/A,S/A,Medianamente Adecuado,Paramédico,2023,18,9.2
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,19,8.3
+Hombre,Baja,S/A,Racional,Medianamente Afín,Adecuado,Paramédico,2023,18,8.3
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,17,9.7
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,20,9.2
+Hombre,Baja,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,19,9.5
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Adecuado,Paramédico,2023,18,9.6
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,18,9.0
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,19,9.0
+Hombre,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,19,8.9
+Hombre,Alta,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,19,9.0
+Hombre,Media,Analítico,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,21,9.4
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,18,9.3
+Mujer,Alta,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,20,8.5
+Mujer,Alta,S/A,Emocional,S/A,Medianamente Adecuado,Paramédico,2023,23,7.2
+Mujer,Baja,Intuitivo,Racional,Medianamente Afín,Adecuado,Paramédico,2023,18,8.0
+Mujer,Baja,S/A,Emocional,S/A,Adecuado,Paramédico,2023,18,9.5
+Mujer,Alta,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,18,9.0
+Mujer,Baja,S/A,Emocional,S/A,Medianamente Adecuado,Paramédico,2023,27,9.0
+Mujer,Media,Analítico,S/A,Medianamente Afín,Adecuado,Paramédico,2023,21,8.8
+Mujer,Media,S/A,Impulsivo,S/A,Medianamente Adecuado,Paramédico,2023,18,8.8
+Mujer,Media,S/A,Racional,Medianamente Afín,Adecuado,Paramédico,2023,19,8.8
+Mujer,Alta,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,9.7
+Mujer,Alta,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,18,8.6
+Mujer,Alta,S/A,Intuitivo,S/A,Medianamente Adecuado,Paramédico,2023,24,8.2
+Mujer,Media,Analítico,Emocional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,21,8.2
+Mujer,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,9.2
+Mujer,Alta,Intuitivo,S/A,S/A,No Adecuado,Paramédico,2023,19,7.0
+Mujer,Alta,S/A,Intuitivo,S/A,Medianamente Adecuado,Paramédico,2023,19,6.8
+Mujer,Alta,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,20,9.0
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,18,7.0
+Mujer,Media,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,8.8
+Mujer,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,18,9.4
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,20,9.2
+Mujer,Media,Intuitivo,Emocional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,20,9.0
+Mujer,Alta,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,19,8.4
+Mujer,Alta,S/A,Emocional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,31,9.2
+Mujer,Baja,S/A,Racional,Medianamente Afín,Adecuado,Paramédico,2023,19,7.4
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,19,9.4
+Mujer,Baja,Analítico,Emocional,Medianamente Afín,Adecuado,Paramédico,2023,18,9.7
+Mujer,Baja,Analítico,Emocional,Medianamente Afín,Adecuado,Paramédico,2023,18,9.0
+Mujer,Baja,Intuitivo,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,19,8.8
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,19,9.2
+Mujer,Media,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,9.3
+Mujer,Baja,Intuitivo,Racional,Medianamente Afín,Adecuado,Paramédico,2023,18,9.7
+Mujer,Alta,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,19,9.7
+Mujer,Media,Intuitivo,Impulsivo,S/A,Medianamente Adecuado,Paramédico,2023,18,6.8
+Mujer,Alta,S/A,Intuitivo,S/A,Medianamente Adecuado,Paramédico,2023,18,7.9
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,18,8.7
+Mujer,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,17,9.2
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,20,9.5
+Mujer,Baja,Analítico,Emocional,Medianamente Afín,Adecuado,Paramédico,2023,19,8.0
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,19,9.4
+Mujer,Alta,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,7.8
+Mujer,Alta,S/A,Emocional,S/A,Medianamente Adecuado,Paramédico,2023,20,7.2
+Mujer,Baja,S/A,Emocional,S/A,Medianamente Adecuado,Paramédico,2023,18,7.0
+Mujer,Alta,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,8.2
+Mujer,Alta,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Paramédico,2023,18,9.5
+Mujer,Alta,Intuitivo,S/A,S/A,Medianamente Adecuado,Paramédico,2023,17,8.8
+Mujer,Alta,S/A,Intuitivo,S/A,Medianamente Adecuado,Paramédico,2023,19,8.0
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Paramédico,2023,18,6.4
+Mujer,Baja,Analítico,Emocional,Medianamente Afín,Adecuado,Paramédico,2023,18,7.4
+Mujer,Baja,Intuitivo,Racional,Medianamente Afín,Adecuado,Paramédico,2023,19,6.2
+Mujer,Alta,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,7.6
+Mujer,Media,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,18,6.8
+Mujer,Media,Intuitivo,Emocional,Medianamente Afín,Medianamente Adecuado,Paramédico,2023,20,6.4
+Mujer,Baja,Analítico,Emocional,Medianamente Afín,Adecuado,Paramédico,2023,19,8.6
+Mujer,Baja,S/A,Emocional,S/A,Medianamente Adecuado,Paramédico,2023,22,6.8
+Hombre,Media,Analítico,S/A,Medianamente Afín,No Adecuado,Procesos Alimentarios,2020,21,6.4
+Hombre,Media,Analítico,S/A,Medianamente Afín,Adecuado,Procesos Alimentarios,2020,18,8.4
+Hombre,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2020,18,8.1
+Hombre,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2020,19,8.8
+Hombre,Media,Analítico,S/A,Afín al perfil,Adecuado,Procesos Alimentarios,2020,18,8.6
+Mujer,Media,S/A,Reflexivo,Afín al perfil,Adecuado,Procesos Alimentarios,2020,18,9.4
+Mujer,Media,Analítico,Reflexivo,Afín al perfil,Adecuado,Procesos Alimentarios,2020,23,9.2
+Mujer,Baja,Analítico,Reflexivo,Afín al perfil,Adecuado,Procesos Alimentarios,2020,19,8.0
+Mujer,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2020,18,9.6
+Mujer,Media,S/A,Impulsivo,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2020,19,7.4
+Mujer,Baja,S/A,Reflexivo,Afín al perfil,Adecuado,Procesos Alimentarios,2020,21,8.8
+Mujer,Baja,Intuitivo,Reflexivo,Afín al perfil,Adecuado,Procesos Alimentarios,2020,18,8.8
+Mujer,Media,Intuitivo,Reflexivo,Afín al perfil,Adecuado,Procesos Alimentarios,2020,20,8.4
+Mujer,Baja,S/A,Reflexivo,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2020,21,8.9
+Mujer,Alta,S/A,Reflexivo,Afín al perfil,Adecuado,Procesos Alimentarios,2020,18,8.6
+Mujer,Media,S/A,Reflexivo,Afín al perfil,Adecuado,Procesos Alimentarios,2020,17,8.0
+Mujer,Alta,Analítico,Reflexivo,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2020,17,8.8
+Mujer,Media,Intuitivo,Reflexivo,Afín al perfil,Adecuado,Procesos Alimentarios,2020,18,9.4
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2020,18,9.4
+Mujer,Media,S/A,Reflexivo,Afín al perfil,Adecuado,Procesos Alimentarios,2020,25,9.4
+Hombre,Baja,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,21,10.0
+Hombre,Media,Analítico,S/A,Medianamente Afín,Adecuado,Procesos Alimentarios,2022,36,10.0
+Hombre,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,18,6.8
+Hombre,Baja,Analítico,Impulsivo,Afín al perfil,Adecuado,Procesos Alimentarios,2022,18,8.8
+Hombre,Baja,Analítico,Emocional,Medianamente Afín,Adecuado,Procesos Alimentarios,2022,18,9.0
+Hombre,Alta,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2022,18,8.5
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,18,7.8
+Hombre,Media,S/A,Emocional,S/A,Medianamente Adecuado,Procesos Alimentarios,2022,20,8.4
+Hombre,Media,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2022,20,8.0
+Hombre,Media,Intuitivo,S/A,S/A,Medianamente Adecuado,Procesos Alimentarios,2022,18,8.2
+Hombre,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2022,18,8.0
+Hombre,Baja,Intuitivo,Racional,Medianamente Afín,Adecuado,Procesos Alimentarios,2022,18,9.2
+Hombre,Baja,S/A,Racional,Medianamente Afín,Adecuado,Procesos Alimentarios,2022,18,8.1
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2022,18,8.4
+Hombre,Alta,S/A,Emocional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,18,8.2
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2022,34,9.0
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,18,7.1
+Mujer,Baja,S/A,Emocional,S/A,Adecuado,Procesos Alimentarios,2022,17,8.2
+Mujer,Baja,S/A,Emocional,S/A,Medianamente Adecuado,Procesos Alimentarios,2022,21,7.5
+Mujer,Media,Analítico,S/A,Medianamente Afín,Adecuado,Procesos Alimentarios,2022,19,9.7
+Mujer,Alta,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,18,7.8
+Mujer,Alta,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2022,19,9.2
+Mujer,Alta,S/A,Intuitivo,S/A,Medianamente Adecuado,Procesos Alimentarios,2022,18,8.0
+Mujer,Alta,Intuitivo,S/A,S/A,Medianamente Adecuado,Procesos Alimentarios,2022,19,7.6
+Mujer,Alta,S/A,Intuitivo,S/A,Medianamente Adecuado,Procesos Alimentarios,2022,19,7.4
+Mujer,Baja,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2022,20,8.8
+Mujer,Media,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2022,19,8.8
+Mujer,Media,Intuitivo,Emocional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,20,8.4
+Mujer,Baja,S/A,Racional,Medianamente Afín,Adecuado,Procesos Alimentarios,2022,21,8.1
+Mujer,Baja,Analítico,Emocional,Medianamente Afín,Adecuado,Procesos Alimentarios,2022,19,8.6
+Mujer,Baja,Intuitivo,S/A,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,17,8.0
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2022,18,8.8
+Mujer,Baja,Intuitivo,Racional,Medianamente Afín,Adecuado,Procesos Alimentarios,2022,18,9.6
+Mujer,Media,Intuitivo,Impulsivo,S/A,Medianamente Adecuado,Procesos Alimentarios,2022,20,8.4
+Mujer,Media,S/A,Emocional,Medianamente Afín,Adecuado,Procesos Alimentarios,2022,18,9.4
+Mujer,baja,Analítico,S/A,Medianamente Afín,Adecuado,Procesos Alimentarios,2022,19,9.8
+Mujer,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,20,8.6
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2022,17,8.3
+Mujer,Alta,S/A,Emocional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,18,8.4
+Mujer,Baja,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,18,8.7
+Mujer,Baja,S/A,Impulsivo,S/A,Medianamente Adecuado,Procesos Alimentarios,2022,21,8.1
+Mujer,Media,Analítico,Emocional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2022,17,8.9
+Hombre,Media,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2023,18,10.0
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,18,9.4
+Hombre,Alta,Intuitivo,S/A,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,19,9.2
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2023,18,9.8
+Hombre,Baja,S/A,Impulsivo,S/A,Adecuado,Procesos Alimentarios,2023,18,7.5
+Hombre,Alta,Analítico,S/A,Medianamente Afín,Adecuado,Procesos Alimentarios,2023,18,9.0
+Hombre,Alta,S/A,S/A,S/A,Medianamente Adecuado,Procesos Alimentarios,2023,18,6.9
+Hombre,Media,Analítico,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,18,9.8
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,20,10.0
+Hombre,Alta,Intuitivo,S/A,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,19,9.6
+Hombre,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2023,17,9.4
+Hombre,Baja,S/A,S/A,S/A,Adecuado,Procesos Alimentarios,2023,18,7.8
+Hombre,Alta,Analítico,S/A,Medianamente Afín,Adecuado,Procesos Alimentarios,2023,19,7.8
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,22,7.8
+Hombre,Baja,S/A,Intuitivo,S/A,Adecuado,Procesos Alimentarios,2023,19,8.2
+Hombre,Alta,Intuitivo,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,18,9.2
+Hombre,Media,Intuitivo,S/A,S/A,Medianamente Adecuado,Procesos Alimentarios,2023,18,7.2
+Hombre,Media,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2023,18,7.9
+Hombre,Alta,Analítico,S/A,Medianamente Afín,Adecuado,Procesos Alimentarios,2023,18,9.7
+Mujer,Media,Analítico,Emocional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,18,6.4
+Mujer,Media,S/A,Emocional,Medianamente Afín,Adecuado,Procesos Alimentarios,2023,18,8.6
+Mujer,Media,S/A,Impulsivo,S/A,Medianamente Adecuado,Procesos Alimentarios,2023,18,6.2
+Mujer,baja,Analítico,S/A,Medianamente Afín,Adecuado,Procesos Alimentarios,2023,19,9.8
+Mujer,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,18,8.0
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2023,18,8.8
+Mujer,Alta,S/A,Emocional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,19,6.4
+Mujer,Baja,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,18,6.0
+Mujer,Baja,Intuitivo,Emocional,Medianamente Afín,Adecuado,Procesos Alimentarios,2023,18,9.0
+Mujer,Baja,S/A,S/A,S/A,No Adecuado,Procesos Alimentarios,2023,19,7.9
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2023,18,8.9
+Mujer,Media,Analítico,Emocional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,19,8.8
+Mujer,Alta,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,18,9.3
+Mujer,Media,Intuitivo,S/A,S/A,Medianamente Adecuado,Procesos Alimentarios,2023,17,8.0
+Mujer,Media,Analítico,Emocional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,18,9.4
+Mujer,baja,Analítico,S/A,Medianamente Afín,Adecuado,Procesos Alimentarios,2023,18,8.8
+Mujer,Media,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2023,17,8.9
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2023,18,10.0
+Mujer,Alta,S/A,Emocional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,20,9.2
+Mujer,Baja,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,18,6.8
+Mujer,Media,Analítico,Emocional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,19,6.8
+Mujer,Media,S/A,Impulsivo,S/A,Medianamente Adecuado,Procesos Alimentarios,2023,21,7.8
+Mujer,Media,S/A,Racional,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,19,9.4
+Mujer,Baja,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,21,9.3
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2023,18,9.2
+Mujer,baja,Analítico,Impulsivo,Medianamente Afín,Adecuado,Procesos Alimentarios,2023,18,9.3
+Mujer,Baja,Analítico,Racional,Afín al perfil,Adecuado,Procesos Alimentarios,2023,18,8.5
+Mujer,Baja,Analítico,S/A,Medianamente Afín,Medianamente Adecuado,Procesos Alimentarios,2023,20,9.2
+Mujer,Alta,Intuitivo,S/A,S/A,No Adecuado,Procesos Alimentarios,2023,18,8.0
+Mujer,Media,Analítico,Racional,Afín al perfil,Medianamente Adecuado,Procesos Alimentarios,2023,20,9.5
